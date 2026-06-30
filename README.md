@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="./CV-Gabriel-Munoz-Riquelme.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar%20CV%20%2F%20Resume-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
+    <img src="https://img.shields.io/badge/Descargar%20CV-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
   </a>
   <a href="https://github.com/gaaabooo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -45,42 +45,17 @@
 <!--                    ABOUT ME                                   -->
 <!-- ============================================================= -->
 
-<h2 align="center">👨‍💻 Sobre mí / About me</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🇪🇸 Español
+<h2 align="center">👨‍💻 Sobre mí</h2>
 
 👋 ¡Hola! Soy **Gabriel**, **Desarrollador Full Stack** desde Chile.
 
 Creo aplicaciones web modernas con **Next.js**, **Nest.js** y **TypeScript**. Me gusta tomar un producto de punta a punta: integrar APIs, automatizar procesos, modelar datos y dejarlo desplegado y estable en producción — con buenas prácticas, testing y documentación que el equipo agradezca.
 
-- 🔭 Construyendo **BaseImponible.cl**, un SaaS contable-tributario integrado con el SII
-- 🌱 Aprendiendo a diario sobre arquitectura full-stack, seguridad (OWASP) y testing
-- 💬 Pregúntame sobre **Next.js, integración de APIs, Firebase y pasarelas de pago**
+- 🔭 Construyendo **Silvestra Vet** y **AstroGreen**, dos plataformas full-stack en producción
+- 🌱 Aprendiendo a diario sobre arquitectura full-stack, seguridad (OWASP) y testing automatizado
+- 💬 Pregúntame sobre **Next.js, NestJS, integración de APIs, Supabase/Firebase y pasarelas de pago**
 - ⚡ Lo que me mueve: calidad técnica, continuidad operativa y software con impacto real
-- 📫 **gabriel.munoz.r99@gmail.com**
-
-</td>
-<td width="50%" valign="top">
-
-### 🇬🇧 English
-
-👋 Hi! I'm **Gabriel**, a **Full Stack Developer** from Chile.
-
-I build modern web apps with **Next.js**, **Nest.js** and **TypeScript**. I enjoy owning a product end to end: integrating APIs, automating processes, modeling data and shipping it stable to production — with clean practices, testing and docs the team actually appreciates.
-
-- 🔭 Building **BaseImponible.cl**, an accounting-tax SaaS integrated with Chile's tax authority
-- 🌱 Learning every day about full-stack architecture, security (OWASP) and testing
-- 💬 Ask me about **Next.js, API integrations, Firebase and payment gateways**
-- ⚡ What drives me: technical quality, operational reliability and real-world impact
-- 📫 **gabriel.munoz.r99@gmail.com**
-
-</td>
-</tr>
-</table>
+- 📫 Contáctame en **gabriel.munoz.r99@gmail.com**
 
 <br/>
 
@@ -88,10 +63,10 @@ I build modern web apps with **Next.js**, **Nest.js** and **TypeScript**. I enjo
 <!--                    TECH STACK                                 -->
 <!-- ============================================================= -->
 
-<h2 align="center">🛠️ Stack Tecnológico / Tech Stack</h2>
+<h2 align="center">🛠️ Stack Tecnológico</h2>
 
 <p align="center">
-  <strong>Lenguajes / Languages</strong><br/><br/>
+  <strong>Lenguajes</strong><br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -104,23 +79,24 @@ I build modern web apps with **Next.js**, **Nest.js** and **TypeScript**. I enjo
   <strong>Frontend</strong><br/><br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 <p align="center">
   <strong>Backend</strong><br/><br/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
 <p align="center">
-  <strong>Bases de datos / BaaS &amp; Cloud</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <strong>Bases de datos &amp; Cloud</strong><br/><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
 </p>
@@ -133,12 +109,12 @@ I build modern web apps with **Next.js**, **Nest.js** and **TypeScript**. I enjo
 </p>
 
 <p align="center">
-  <strong>Herramientas / Tools &amp; CMS</strong><br/><br/>
+  <strong>Herramientas &amp; CMS</strong><br/><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SiteGround-DE411B?style=for-the-badge&logo=siteground&logoColor=white" alt="SiteGround"/>
 </p>
 
 <br/>
@@ -147,45 +123,87 @@ I build modern web apps with **Next.js**, **Nest.js** and **TypeScript**. I enjo
 <!--                    FEATURED PROJECTS                          -->
 <!-- ============================================================= -->
 
-<h2 align="center">🚀 Proyectos destacados / Featured Projects</h2>
+<h2 align="center">🚀 Proyectos destacados</h2>
 
 <table align="center" width="100%">
 <tr>
 <td valign="top">
 
-### 🏦 BaseImponible.cl — SaaS contable-tributario
+### 🐾 Silvestra Vet — Plataforma de veterinaria a domicilio
 
 <p>
   <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/NestJS%2011-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
-  <img src="https://img.shields.io/badge/Firebase%20App%20Hosting-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase App Hosting"/>
-  <img src="https://img.shields.io/badge/Flow-2563EB?style=flat-square" alt="Flow"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-SaaS contable-tributario construido con **Next.js 16**, **TypeScript** y **Cloud Firestore**, desplegado en **Firebase App Hosting**. *An accounting & tax SaaS for Chilean businesses.*
+<a href="https://amavet-eight.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗%20Ver%20demo-2563EB?style=for-the-badge" alt="Ver demo"/></a>
 
-- 🔗 Lideré la **integración con el SII vía SimpleAPI** para sincronizar el **Registro de Compras y Ventas (RCV)**, implementada desde cero con validación de contratos y **sincronización masiva multiempresa idempotente**.
-- 🧮 Reconstruí la **Propuesta de F29** y la **proporcionalidad de IVA**.
-- 🔐 Lideré un **hardening de seguridad (OWASP Top 10)** y migré el acceso a datos a **Firebase Admin** server-side, con **autenticación robusta**.
-- ✉️ Integré **correos transaccionales** (Nodemailer + SMTP SiteGround) y la **pasarela de pagos Flow**.
-- ✅ Estabilicé el despliegue y ejecuté **QA automatizado** con **Vitest, Jest y Playwright**.
+App full-stack para un servicio veterinario **a domicilio**: capta clientes desde la landing, permite a los tutores registrar mascotas y agendar visitas, y da al equipo veterinario un panel para gestionar citas y entregar resultados clínicos de forma segura.
+
+- 🏗️ **Monorepo**: frontend **Next.js 16 (App Router) + React 19 + Tailwind 4** en Vercel; backend **NestJS 11** en Render.
+- 🗄️ **PostgreSQL + Prisma 7** sobre Supabase, con **Supabase Storage** (buckets privados y URLs firmadas).
+- 🔐 Autenticación propia con **JWT + Argon2id** y **Google OAuth**, versionado de sesiones y roles Tutor/Admin.
+- 📄 Generación de **fichas médicas y exámenes en PDF** server-side (PDFKit + pdf-lib) y **correos transaccionales** (SendGrid).
+- 🛡️ Auditado contra el **OWASP Top 10 (2025)**.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 🌐 ChapApp — Desarrollo web
+### 🌿 AstroGreen — E-commerce de ropa usada premium
 
 <p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Transbank-FF0000?style=flat-square" alt="Transbank"/>
+  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Webpay%20Plus-FF0000?style=flat-square" alt="Webpay Plus"/>
 </p>
 
-Sitios web en **WordPress** a partir de diseños en **Figma**: formularios, *plugins* y sistemas de **inscripción de eventos**, **correos automáticos** (SMTP + templates HTML), pruebas de pago con **Transbank Pay REST** y entornos locales con **Docker**.
+<a href="https://astrogreen-cl-web.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🔗%20Ver%20demo-2563EB?style=for-the-badge" alt="Ver demo"/></a>
+
+Tienda online de ropa usada premium en Chile: catálogo, carrito, **checkout invitado**, panel de administración, gestión de prendas y **disponibilidad en tiempo real**.
+
+- 🏗️ **Monorepo** Turborepo + pnpm: web **Next.js 16 + React 19 + Tailwind 4**; API **NestJS + Prisma**.
+- 💳 Pagos con **Transbank Webpay Plus** y manejo de estados de orden.
+- ✨ Experiencia con animaciones (**GSAP / Framer Motion / Lenis**), estado con **Zustand** y validación con **Zod**.
+- 📈 Observabilidad con **Sentry**, emails con **Resend** y **e2e con Playwright**.
+
+</td>
+</tr>
+</table>
+
+<h3 align="center">🤝 Colaboración</h3>
+
+<table align="center" width="100%">
+<tr>
+<td valign="top">
+
+### 🧾 BaseImponible.cl — SaaS contable-tributario
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
+  <img src="https://img.shields.io/badge/Firebase%20App%20Hosting-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Flow-2563EB?style=flat-square" alt="Flow"/>
+</p>
+
+SaaS contable-tributario (Next.js 16, TypeScript, Cloud Firestore, Firebase App Hosting). **Mi aporte al proyecto:**
+
+- 🔗 Integración con el **SII vía SimpleAPI** para sincronizar el **RCV** (Registro de Compras y Ventas), con validación de contratos y **sincronización masiva multiempresa idempotente**.
+- 🧮 **Propuesta de F29** y proporcionalidad de **IVA**.
+- 🔐 **Hardening OWASP Top 10** y acceso a datos con **Firebase Admin** server-side.
+- ✉️ Correos transaccionales (Nodemailer + SMTP) e integración de la pasarela de pagos **Flow**.
+- ✅ **QA automatizado** con Vitest, Jest y Playwright.
 
 </td>
 </tr>
@@ -197,7 +215,7 @@ Sitios web en **WordPress** a partir de diseños en **Figma**: formularios, *plu
 <!--                    GITHUB STATS                               -->
 <!-- ============================================================= -->
 
-<h2 align="center">📊 Estadísticas de GitHub / GitHub Stats</h2>
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaaabooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1120&title_color=2563eb&icon_color=2563eb" alt="GitHub Stats"/>
