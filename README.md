@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 
 <h1 align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e3a8a,100:2563eb&height=220&section=header&text=Gabriel%20Mu%C3%B1oz%20Riquelme&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50" alt="Gabriel Muñoz Riquelme - Software Engineer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e3a8a,100:2563eb&height=220&section=header&text=Gabriel%20Mu%C3%B1oz%20Riquelme&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50" alt="Gabriel Muñoz Riquelme - Full Stack Developer"/>
 </h1>
 
 <!-- ============================================================= -->
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/gaaabooo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+%7C+Software+Engineer;Desarrollador+Web+Full-Stack;Automatizaci%C3%B3n+e+integraci%C3%B3n+de+APIs;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Desarrollador+Web+Full-Stack;Automatizaci%C3%B3n+e+integraci%C3%B3n+de+APIs;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 
 ### 🇪🇸 Español
 
-Soy **Ingeniero de Ejecución en Informática**, titulado en la **Pontificia Universidad Católica de Valparaíso**.
+Soy **Full Stack Developer** con formación en **Ingeniería de Ejecución en Informática** (Pontificia Universidad Católica de Valparaíso).
 
 Desarrollador web orientado a resultados, con foco en construir interfaces digitales, integrar APIs y automatizar procesos de negocio. Me apasiona optimizar el rendimiento y la experiencia de usuario, y mantenerme aprendiendo tecnologías emergentes.
 
@@ -67,7 +67,7 @@ Desarrollador web orientado a resultados, con foco en construir interfaces digit
 
 ### 🇬🇧 English
 
-I'm a **Software Engineer**, graduated from the **Pontifical Catholic University of Valparaíso**, Chile.
+I'm a **Full Stack Developer** with a background in **Computer Engineering** (Pontifical Catholic University of Valparaíso, Chile).
 
 Results-driven web developer focused on building digital interfaces, integrating APIs and automating business processes. Passionate about performance, user experience and continuous learning of emerging technologies.
 
@@ -194,37 +194,6 @@ Results-driven web developer focused on building digital interfaces, integrating
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gaaabooo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </p>
-
-<br/>
-
-<!-- ============================================================= -->
-<!--                    EDUCATION & LANGUAGES                      -->
-<!-- ============================================================= -->
-
-<h2 align="center">🎓 Educación &amp; Idiomas / Education &amp; Languages</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-
-### 🎓 Educación / Education
-
-**Ingeniería de Ejecución en Informática**
-<br/>*Titulado / Graduated*
-<br/>Pontificia Universidad Católica de Valparaíso
-
-</td>
-<td width="50%" valign="top" align="center">
-
-### 🌐 Idiomas / Languages
-
-🇪🇸 **Español** — Nativo / Native
-<br/><br/>
-🇬🇧 **Inglés / English** — B2
-
-</td>
-</tr>
-</table>
 
 <br/>
 
