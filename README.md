@@ -218,9 +218,3 @@ SaaS contable-tributario (Next.js 16, TypeScript, Cloud Firestore, Firebase App 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0b1120&height=120&section=footer" alt="footer"/>
 </p>
-
-<p align="center">
-  <i>« Software con impacto real, calidad técnica y evolución constante. »</i>
-  <br/>
-  <sub>Hecho con 💙 por Gabriel Muñoz Riquelme</sub>
-</p>
