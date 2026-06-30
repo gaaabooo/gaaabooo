@@ -212,27 +212,6 @@ SaaS contable-tributario (Next.js 16, TypeScript, Cloud Firestore, Firebase App 
 <br/>
 
 <!-- ============================================================= -->
-<!--                    GITHUB STATS                               -->
-<!-- ============================================================= -->
-
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaaabooo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b1120&title_color=2563eb&icon_color=2563eb" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaaabooo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=2563eb&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaaabooo&theme=tokyonight&hide_border=true&background=0b1120&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaaabooo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-</p>
-
-<br/>
-
-<!-- ============================================================= -->
 <!--                    FOOTER                                     -->
 <!-- ============================================================= -->
 
