@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 
 <h1 align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e3a8a,100:2563eb&height=220&section=header&text=Gabriel%20Mu%C3%B1oz%20Riquelme&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Web%20Developer%20%7C%20Automation&descAlignY=58&descSize=18&descAlign=50" alt="Gabriel Muñoz Riquelme - Full Stack Developer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:1e3a8a,100:2563eb&height=220&section=header&text=Gabriel%20Mu%C3%B1oz%20Riquelme&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%C2%B7%20Nest.js%20%C2%B7%20TypeScript&descAlignY=58&descSize=18&descAlign=50" alt="Gabriel Muñoz Riquelme - Full Stack Developer"/>
 </h1>
 
 <!-- ============================================================= -->
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/gaaabooo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Desarrollador+Web+Full-Stack;Automatizaci%C3%B3n+e+integraci%C3%B3n+de+APIs;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%C2%B7+Nest.js+%C2%B7+TypeScript;Integraci%C3%B3n+de+APIs+%26+automatizaci%C3%B3n;Always+building%2C+always+learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,28 +53,30 @@
 
 ### 🇪🇸 Español
 
-Soy **Full Stack Developer** con formación en **Ingeniería de Ejecución en Informática** (Pontificia Universidad Católica de Valparaíso).
+👋 ¡Hola! Soy **Gabriel**, **Desarrollador Full Stack** desde Chile.
 
-Desarrollador web orientado a resultados, con foco en construir interfaces digitales, integrar APIs y automatizar procesos de negocio. Me apasiona optimizar el rendimiento y la experiencia de usuario, y mantenerme aprendiendo tecnologías emergentes.
+Creo aplicaciones web modernas con **Next.js**, **Nest.js** y **TypeScript**. Me gusta tomar un producto de punta a punta: integrar APIs, automatizar procesos, modelar datos y dejarlo desplegado y estable en producción — con buenas prácticas, testing y documentación que el equipo agradezca.
 
-- 🔭 Trabajando en **integración SimpleAPI RCV** y automatización multiempresa
-- 🌱 Profundizando en **arquitecturas full-stack** y **Firebase**
-- 💬 Pregúntame sobre **React, Next.js, Astro, integración de APIs y pagos**
-- 📫 Contacto: **gabriel.munoz.r99@gmail.com**
+- 🔭 Construyendo **BaseImponible.cl**, un SaaS contable-tributario integrado con el SII
+- 🌱 Aprendiendo a diario sobre arquitectura full-stack, seguridad (OWASP) y testing
+- 💬 Pregúntame sobre **Next.js, integración de APIs, Firebase y pasarelas de pago**
+- ⚡ Lo que me mueve: calidad técnica, continuidad operativa y software con impacto real
+- 📫 **gabriel.munoz.r99@gmail.com**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🇬🇧 English
 
-I'm a **Full Stack Developer** with a background in **Computer Engineering** (Pontifical Catholic University of Valparaíso, Chile).
+👋 Hi! I'm **Gabriel**, a **Full Stack Developer** from Chile.
 
-Results-driven web developer focused on building digital interfaces, integrating APIs and automating business processes. Passionate about performance, user experience and continuous learning of emerging technologies.
+I build modern web apps with **Next.js**, **Nest.js** and **TypeScript**. I enjoy owning a product end to end: integrating APIs, automating processes, modeling data and shipping it stable to production — with clean practices, testing and docs the team actually appreciates.
 
-- 🔭 Working on **SimpleAPI RCV integration** and multi-company automation
-- 🌱 Diving deeper into **full-stack architectures** and **Firebase**
-- 💬 Ask me about **React, Next.js, Astro, API & payment integrations**
-- 📫 Reach me: **gabriel.munoz.r99@gmail.com**
+- 🔭 Building **BaseImponible.cl**, an accounting-tax SaaS integrated with Chile's tax authority
+- 🌱 Learning every day about full-stack architecture, security (OWASP) and testing
+- 💬 Ask me about **Next.js, API integrations, Firebase and payment gateways**
+- ⚡ What drives me: technical quality, operational reliability and real-world impact
+- 📫 **gabriel.munoz.r99@gmail.com**
 
 </td>
 </tr>
@@ -116,10 +118,18 @@ Results-driven web developer focused on building digital interfaces, integrating
 
 <p align="center">
   <strong>Bases de datos / BaaS &amp; Cloud</strong><br/><br/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+</p>
+
+<p align="center">
+  <strong>Testing / QA</strong><br/><br/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
 </p>
 
 <p align="center">
@@ -134,41 +144,48 @@ Results-driven web developer focused on building digital interfaces, integrating
 <br/>
 
 <!-- ============================================================= -->
-<!--                    EXPERIENCE                                 -->
+<!--                    FEATURED PROJECTS                          -->
 <!-- ============================================================= -->
 
-<h2 align="center">💼 Experiencia / Experience</h2>
+<h2 align="center">🚀 Proyectos destacados / Featured Projects</h2>
 
 <table align="center" width="100%">
 <tr>
 <td valign="top">
 
-### 🟢 Asesor 25 SpA — Desarrollo Web y Automatización
-<sub>03/2026 – Actualidad · *Web Development & Automation*</sub>
+### 🏦 BaseImponible.cl — SaaS contable-tributario
 
-- Implementación y estabilización del flujo **SimpleAPI RCV** para compras y ventas multiempresa.
-- **Hardening** de contratos API y validación estructural de payloads antes de integrar con el proveedor.
-- Corrección de **sincronización masiva** compras/ventas y *parser* RCV.
-- Refactorización *server-side* con **Firebase Admin**.
-- Validaciones de contrato en *runtime* y migración a contrato **multipart** oficial.
-- Protección de rutas y endurecimiento de autenticación del *dashboard* administrativo.
-- Estabilización del *build* y despliegue en **Firebase App Hosting**.
-- **QA técnico** con reportes de defectos y evidencia de pruebas.
+<p>
+  <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firestore"/>
+  <img src="https://img.shields.io/badge/Firebase%20App%20Hosting-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase App Hosting"/>
+  <img src="https://img.shields.io/badge/Flow-2563EB?style=flat-square" alt="Flow"/>
+</p>
+
+SaaS contable-tributario construido con **Next.js 16**, **TypeScript** y **Cloud Firestore**, desplegado en **Firebase App Hosting**. *An accounting & tax SaaS for Chilean businesses.*
+
+- 🔗 Lideré la **integración con el SII vía SimpleAPI** para sincronizar el **Registro de Compras y Ventas (RCV)**, implementada desde cero con validación de contratos y **sincronización masiva multiempresa idempotente**.
+- 🧮 Reconstruí la **Propuesta de F29** y la **proporcionalidad de IVA**.
+- 🔐 Lideré un **hardening de seguridad (OWASP Top 10)** y migré el acceso a datos a **Firebase Admin** server-side, con **autenticación robusta**.
+- ✉️ Integré **correos transaccionales** (Nodemailer + SMTP SiteGround) y la **pasarela de pagos Flow**.
+- ✅ Estabilicé el despliegue y ejecuté **QA automatizado** con **Vitest, Jest y Playwright**.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-### 🔵 ChapApp — Desarrollador Web
-<sub>01/2024 – 03/2024 · *Web Developer*</sub>
+### 🌐 ChapApp — Desarrollo web
 
-- Desarrollo y maquetación de páginas web en **WordPress** a partir de diseños en **Figma**.
-- Implementación de formularios, *plugins* y sistemas de **inscripción de eventos**.
-- Integración de **correos automáticos** vía servidor SMTP y *templates* HTML para emails.
-- Pruebas de flujo de pago con **Transbank Pay REST**.
-- Entorno local con **Docker** para desarrollo y prevención de errores en producción.
-- Documentación técnica y coordinación de tareas con el equipo de desarrollo.
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Transbank-FF0000?style=flat-square" alt="Transbank"/>
+</p>
+
+Sitios web en **WordPress** a partir de diseños en **Figma**: formularios, *plugins* y sistemas de **inscripción de eventos**, **correos automáticos** (SMTP + templates HTML), pruebas de pago con **Transbank Pay REST** y entornos locales con **Docker**.
 
 </td>
 </tr>
@@ -206,7 +223,7 @@ Results-driven web developer focused on building digital interfaces, integrating
 </p>
 
 <p align="center">
-  <i>« Comprometido con el aprendizaje continuo y la adaptación a tecnologías emergentes. »</i>
+  <i>« Software con impacto real, calidad técnica y evolución constante. »</i>
   <br/>
   <sub>Hecho con 💙 por Gabriel Muñoz Riquelme</sub>
 </p>
